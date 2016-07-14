@@ -35,9 +35,9 @@ namespace LinqQueryExpressions
         {
             //ShowContextualKeywords1();
             //List2("G:\\temp\\Chapter2", "*.*");
-            //GroupKeywords1();
+            GroupKeywords1();
 
-            ListMemberNames();
+            //ListMemberNames();
         }
 
         private static void ShowContextualKeywords1()
